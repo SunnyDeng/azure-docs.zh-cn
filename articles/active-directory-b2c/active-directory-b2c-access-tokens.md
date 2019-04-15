@@ -18,6 +18,7 @@ ms.lasthandoff: 02/06/2019
 ms.locfileid: "55768324"
 ---
 # <a name="azure-ad-b2c-requesting-access-tokens"></a>Azure AD B2C：请求访问令牌
+test2test2test2test2test2test2test2test2test2
 
 访问令牌（在来自 Azure AD B2C 的响应中表示为 access\_token）是某种形式的安全令牌，客户端可以使用它来访问受 [授权服务器](active-directory-b2c-reference-protocols.md)保护的资源，如 Web API。 访问令牌表示为 [JWT](active-directory-b2c-reference-tokens.md)，包含有关目标资源服务器以及向服务器授予的权限的信息。 调用资源服务器时，必须在 HTTP 请求中提供访问令牌。
 
