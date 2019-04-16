@@ -1,6 +1,6 @@
 ---
 title: 在 Azure Active Directory B2C 中请求访问令牌 | Microsoft Docs
-description: 本文介绍如何设置客户端应用程序和获取访问令牌。
+description: 本文介绍如何设置客户端应用程序和获取访问令牌。Test1Test1Test1Test1Test1Test1Test1Test1Test1Test1
 services: active-directory-b2c
 author: davidmu1
 manager: daveba
